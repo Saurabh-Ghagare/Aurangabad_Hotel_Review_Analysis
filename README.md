@@ -46,6 +46,7 @@ Exploring the data to answer key questions, such as:
 - What are the predominant sentiments in the reviews?
 - Which words are most frequently mentioned?
 - Are there any notable correlations between sentiments and hotel attributes?
+---
 
 ### Data Analysis
 
@@ -70,6 +71,8 @@ print(customer_reviews)
 ~~~ 
 Full code is in file(Data Collection Data Scraping)
 
+---
+
 - High frequency mentioned words
 ~~~r
 data_count<- data_new%>%
@@ -86,7 +89,7 @@ data_count <- data_count %>%
 Full code is in file(Most High Frequency word.R)
 
 
-
+---
 - Sentiment Analysis of Aurangabad Hotel Reviews.
 Discover the heartbeat of customer experiences, sentiments.
 
@@ -96,7 +99,7 @@ Discover the heartbeat of customer experiences, sentiments.
 Full code is in file(Aurangabad Hotel Review Sentiment.R)
 
 
-
+---
 - Co-occurring word relationships in aurangabad hotel reviews.
   
   The graph highlights significant associations between words, offering insights into prevalent topics and themes discussed in the reviews.
@@ -107,7 +110,7 @@ Full code is in file(Aurangabad Hotel Review Sentiment.R)
 Full code is in file(Most High Frequency word.R)
 
 
-
+---
 - Positive Sentiment Network.
 Mapping the Bright Side of Aurangabad Hotel Reviews. The interconnected web of positivity within TripAdvisor feedback, showcasing the sunny side of customer experiences in Aurangabad's hospitality sector.
 
@@ -117,7 +120,7 @@ Mapping the Bright Side of Aurangabad Hotel Reviews. The interconnected web of p
 Full code is in file(Positive Sentiment Netword.R)
 
 
-
+---
 - Negative Sentiment Network.
 Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of negativity within TripAdvisor feedback, shedding light on areas for improvement in Aurangabad's hospitality sector.
 
