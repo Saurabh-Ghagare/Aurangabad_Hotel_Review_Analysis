@@ -109,7 +109,7 @@ Full code is in file(Aurangabad Hotel Review Sentiment.R)
 
   ![Co-occurring Word Relationships in Aurangabad Hotel Reviews](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/e70b254c-42af-4b59-9352-373a2444b1f9)
 
-Full code is in file(Most High Frequency word.R)
+Full code is in file([Co-occurring Word Relationships in Aurangabad Hotel Reviews.R](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/blob/main/Co-occurring%20Word%20Relationships%20in%20Aurangabad%20Hotel%20Reviews.R)
 
 
 ---
