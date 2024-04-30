@@ -129,3 +129,14 @@ Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of ne
 
 Full code is in file(Negative Sentiment Network.R)
 
+
+---
+### Findings
+#### Sentiment Analysis Results:
+- The sentiment analysis reveals a predominantly positive sentiment among users, with a significant number of positive sentiment words mentioned by users. highlighting aspects like cleanliness, helpful staff, and excellent service.
+- Negative sentiments focus on issues such as cleanliness, costliness, and disappointment.
+---
+#### High-Frequency Terms:
+- The most frequently mentioned terms in the reviews include hotel, staff, food, service, stay, clean, restaurant, aurangabad, breakfast, experience, nice, stayed, helpful, comfortable, location indicating their significance in user reviews.
+![image](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/98a36692-0518-48ba-b43d-db4028fec465)
+ among others.
