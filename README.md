@@ -139,9 +139,7 @@ Full code is in file(Negative Sentiment Network.R)
 - Negative sentiments focus on issues such as cleanliness, costliness, and disappointment.
 ---
 #### High-Frequency Terms:
-- The most frequently mentioned terms in the reviews include hotel, staff, food, service, stay, clean, restaurant, aurangabad, breakfast, experience, nice, stayed, helpful, comfortable, location indicating their significance in user reviews.
-![image](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/98a36692-0518-48ba-b43d-db4028fec465)
- among others.
+- The most frequently mentioned terms in the reviews include hotel, staff, food, service, stay, clean, restaurant, aurangabad, breakfast, experience, nice, stayed, helpful, comfortable, location indicating their significance in user reviews among each.
 --- 
 #### Negative Sentiment Words:
 Negative sentiments are associated with words like "dirty," "costly," "disappoint," and "shocked," pinpointing areas for improvement.
