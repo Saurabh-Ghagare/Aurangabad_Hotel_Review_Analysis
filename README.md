@@ -93,7 +93,7 @@ Full code is in file(Most High Frequency word.R)
 
 Full code is in file(Most High Frequency word.R)
 
--Sentiment Analysis of Aurangabad Hotel Reviews.
+- Sentiment Analysis of Aurangabad Hotel Reviews.
 Discover the heartbeat of customer experiences, sentiments.
 
 ![Sentiment Analysys](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/ed576cad-3e91-40d2-9254-3e38a4bd2e2d)
