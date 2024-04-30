@@ -49,3 +49,23 @@ Exploring the data to answer key questions, such as:
 
 ### Data Analysis
 
+Data Scraped from website
+~~~ python
+from random import randint
+from time import sleep
+
+customer_reviews = []
+
+for link in new_urls:
+    headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
+    html2 = requests.get(link,  headers=headers, proxies=proxies, verify=False)
+    sleep(randint(1, 5))
+    bsobj2 = BeautifulSoup(html2.text, 'html.parser')
+    for element in bsobj2.find_all(recursive=False):  # Filter out the doctype
+        for div in element.find_all('div', class_="fIrGe _T"):
+            customer_reviews.append(div)
+            print(div)
+
+print(customer_reviews)
+~~~ 
+full code is in file(Data Collection Data Scraping)
