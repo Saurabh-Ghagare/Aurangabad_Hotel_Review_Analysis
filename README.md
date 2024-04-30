@@ -140,3 +140,20 @@ Full code is in file(Negative Sentiment Network.R)
 - The most frequently mentioned terms in the reviews include hotel, staff, food, service, stay, clean, restaurant, aurangabad, breakfast, experience, nice, stayed, helpful, comfortable, location indicating their significance in user reviews.
 ![image](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/98a36692-0518-48ba-b43d-db4028fec465)
  among others.
+--- 
+#### Negative Sentiment Words:
+Negative sentiments are associated with words like "dirty," "costly," "disappoint," and "shocked," pinpointing areas for improvement.
+
+---
+
+#### Positive Sentiment Words:
+Positive sentiments are linked to terms like "excellent," "friendly," and "fantastic," reflecting satisfaction with various aspects of the hotel experience.
+
+---
+#### Co-occuring Word Relationships in Aurangabad Hotel Reviews:
+- Word Staff correlate with words like cooperative, courteous, polite, helpful, friendly, and other suggest that aurangabad hospitality industrial staff overall positive side inclined.
+- Word hotel which is main word in this study have close co-relations with budget, location, booked, star, clean, stay, comfortable suggest Guests concerned who visit aurangabad.
+
+### References
+~~~ https://www.researchgate.net/publication/320106421_Application_of_social_media_analytics_A_case_of_analyzing_online_hotel_reviews
+~~~
