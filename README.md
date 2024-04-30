@@ -85,6 +85,13 @@ data_count <- data_count %>%
 
 Full code is in file(Most High Frequency word.R)
 
+- Sentiment Analysis of Aurangabad Hotel Reviews.
+Discover the heartbeat of customer experiences, sentiments.
+
+![Sentiment Analysys](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/ed576cad-3e91-40d2-9254-3e38a4bd2e2d)
+
+Full code is in file(Aurangabad Hotel Review Sentiment.R)
+
 - Co-occurring word relationships in aurangabad hotel reviews.
   
   The graph highlights significant associations between words, offering insights into prevalent topics and themes discussed in the reviews.
@@ -93,11 +100,11 @@ Full code is in file(Most High Frequency word.R)
 
 Full code is in file(Most High Frequency word.R)
 
-- Sentiment Analysis of Aurangabad Hotel Reviews.
-Discover the heartbeat of customer experiences, sentiments.
+- Positive Sentiment Network.
+Mapping the Bright Side of Aurangabad Hotel Reviews. The interconnected web of positivity within TripAdvisor feedback, showcasing the sunny side of customer experiences in Aurangabad's hospitality sector.
 
-![Sentiment Analysys](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/ed576cad-3e91-40d2-9254-3e38a4bd2e2d)
+![Positive sentiment network](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/ea0d997f-9691-450c-bf7f-a5df3276cefb)
 
-Full code is in file(Aurangabad Hotel Review Sentiment.R)
+Full code is in file(Most High Frequency word.R)
 
 
