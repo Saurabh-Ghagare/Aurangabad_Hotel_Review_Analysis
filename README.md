@@ -12,7 +12,7 @@ Analyze TripAdvisor reviews from Aurangabad hotels. Extract sentiments, high-fre
 This project delves into the analysis of hotel reviews sourced from TripAdvisor, focusing on establishments in Aurangabad, Maharashtra, India. Leveraging text data extracted from TripAdvisor reviews, I employed a combination of data cleaning, sentiment analysis, and frequency analysis techniques to extract insights into customer sentiments and preferences regarding hotels in Aurangabad.
 
 
-### Dta Sources
+### Data Sources
 
 Hotel Review Data: I have used BeautifulSoup python library to scrap data from TripAdvisor site. Then transform into Review.xlsx Excel file to
 
