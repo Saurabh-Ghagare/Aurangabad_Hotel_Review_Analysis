@@ -50,7 +50,7 @@ Exploring the data to answer key questions, such as:
 
 ### Data Analysis
 
-- Data Scraped from website
+#### Data Scraped from website
 ~~~ python
 from random import randint
 from time import sleep
@@ -73,7 +73,7 @@ Full code is in file(Data Collection Data Scraping)
 
 ---
 
-- High frequency mentioned words
+#### High frequency mentioned words
 ~~~r
 data_count<- data_new%>%
   count(word, name = "n")%>%
@@ -90,7 +90,7 @@ Full code is in file(Most High Frequency word.R)
 
 
 ---
-- Sentiment Analysis of Aurangabad Hotel Reviews.
+#### Sentiment Analysis of Aurangabad Hotel Reviews.
 Discover the heartbeat of customer experiences, sentiments.
 
 
@@ -100,7 +100,7 @@ Full code is in file(Aurangabad Hotel Review Sentiment.R)
 
 
 ---
-- Co-occurring word relationships in aurangabad hotel reviews.
+#### Co-occurring word relationships in aurangabad hotel reviews.
   
   The graph highlights significant associations between words, offering insights into prevalent topics and themes discussed in the reviews.
   
@@ -111,7 +111,7 @@ Full code is in file(Most High Frequency word.R)
 
 
 ---
-- Positive Sentiment Network.
+#### Positive Sentiment Network.
 Mapping the Bright Side of Aurangabad Hotel Reviews. The interconnected web of positivity within TripAdvisor feedback, showcasing the sunny side of customer experiences in Aurangabad's hospitality sector.
 
 
@@ -121,7 +121,7 @@ Full code is in file(Positive Sentiment Netword.R)
 
 
 ---
-- Negative Sentiment Network.
+#### Negative Sentiment Network.
 Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of negativity within TripAdvisor feedback, shedding light on areas for improvement in Aurangabad's hospitality sector.
 
 
