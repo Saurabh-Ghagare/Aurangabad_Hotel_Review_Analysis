@@ -79,8 +79,17 @@ data_count <- data_count %>%
   mutate(word = factor(word, levels = word[order(-n)]))
 
 ~~~
+
 ![d3e9d944-ebb7-461b-8132-409bd24df9c0](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/02aec4a0-8173-46c7-b5b6-67bd6303a0e9)
 
 
 Full code is in file(Most High Frequency word.R)
+
+- Co-occurring word relationships in aurangabad hotel reviews.
+  
+  The graph highlights significant associations between words, offering insights into prevalent topics and themes discussed in the reviews.
+  
+  ![Co-occurring Word Relationships in Aurangabad Hotel Reviews](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/e70b254c-42af-4b59-9352-373a2444b1f9)
+
+
 
