@@ -49,7 +49,7 @@ Exploring the data to answer key questions, such as:
 
 ### Data Analysis
 
-Data Scraped from website
+- Data Scraped from website
 ~~~ python
 from random import randint
 from time import sleep
@@ -68,4 +68,19 @@ for link in new_urls:
 
 print(customer_reviews)
 ~~~ 
-full code is in file(Data Collection Data Scraping)
+Full code is in file(Data Collection Data Scraping)
+
+- High frequency mentioned words
+~~~r
+data_count<- data_new%>%
+  count(word, name = "n")%>%
+  filter(n> 274, sort(TRUE))
+data_count <- data_count %>%
+  mutate(word = factor(word, levels = word[order(-n)]))
+
+~~~
+![d3e9d944-ebb7-461b-8132-409bd24df9c0](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/02aec4a0-8173-46c7-b5b6-67bd6303a0e9)
+
+
+Full code is in file(Most High Frequency word.R)
+
