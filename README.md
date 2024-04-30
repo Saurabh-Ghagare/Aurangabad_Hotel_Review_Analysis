@@ -71,7 +71,7 @@ for link in new_urls:
 
 print(customer_reviews)
 ~~~ 
-Full code is in file(Data Collection Data Scraping)
+Full code is in file([Data Collection Data Scraping](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/blob/main/Data%20Collection%20Data%20Scraping.ipynb)
 
 ---
 
@@ -88,7 +88,7 @@ data_count <- data_count %>%
 ![d3e9d944-ebb7-461b-8132-409bd24df9c0](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/02aec4a0-8173-46c7-b5b6-67bd6303a0e9)
 
 
-Full code is in file(Most High Frequency word.R)
+Full code is in file([Most High Frequency word.R](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/blob/main/Most%20High%20Frequency%20word.R)
 
 
 ---
@@ -98,7 +98,7 @@ Discover the heartbeat of customer experiences, sentiments.
 
 ![Sentiment Analysys](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/ed576cad-3e91-40d2-9254-3e38a4bd2e2d)
 
-Full code is in file(Aurangabad Hotel Review Sentiment.R)
+Full code is in file([Aurangabad Hotel Review Sentiment.R](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/blob/main/Aurangabad%20Hotel%20Review%20Sentiment.R)
 
 
 ---
@@ -119,7 +119,7 @@ Mapping the Bright Side of Aurangabad Hotel Reviews. The interconnected web of p
 
 ![Positive sentiment network](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/ea0d997f-9691-450c-bf7f-a5df3276cefb)
 
-Full code is in file(Positive Sentiment Netword.R)
+Full code is in file([Positive Sentiment Netword.R](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/blob/main/Positive%20Sentiment%20Netword.R)
 
 
 ---
@@ -129,7 +129,7 @@ Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of ne
 
 ![Negative sentiment](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/90aadd55-8c3b-4cda-9095-63c96535e827)
 
-Full code is in file(Negative Sentiment Network.R)
+Full code is in file([Negative Sentiment Network.R](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/blob/main/Negative%20Sentiment%20Network.R)
 
 
 ---
