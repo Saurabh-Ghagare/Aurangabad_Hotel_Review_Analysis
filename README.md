@@ -5,7 +5,9 @@ Analyze TripAdvisor reviews from Aurangabad hotels. Extract sentiments, high-fre
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Data-Collection](data-collection)
 - [Data Analysis](#data-analysis)
+- [Findings}(findings)
 
 ### Project Overview
 ---
