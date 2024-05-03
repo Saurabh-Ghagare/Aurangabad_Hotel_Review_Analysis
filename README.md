@@ -157,3 +157,8 @@ Positive sentiments are linked to terms like "excellent," "friendly," and "fanta
 ### References
 ~~~ https://www.researchgate.net/publication/320106421_Application_of_social_media_analytics_A_case_of_analyzing_online_hotel_reviews
 ~~~
+### Challenges
+- The data was unstructerd format.
+- Data contains stopwords, numbers and special characters.
+- It was challenging to select the best visualization techniques.
+  
